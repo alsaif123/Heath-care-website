@@ -1,0 +1,21 @@
+.services{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+.services h4{
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 100px 10px;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(84, 195, 247);
+}
+.services h4:hover{
+    cursor: pointer;
+    background-color: rgb(58, 58, 252);
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+
+}

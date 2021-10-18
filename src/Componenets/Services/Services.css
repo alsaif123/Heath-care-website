@@ -1,0 +1,12 @@
+.information_details{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    padding-left: 10px;
+}
+.information_details img{
+    padding : auto;
+    width: 500px;
+    
+
+}
