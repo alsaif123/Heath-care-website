@@ -1,9 +1,11 @@
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyDkZ677th1n00-Otlb2P2NKjBM636or87k",
-    authDomain: "healthcare-authenticatio-eefc3.firebaseapp.com",
-    projectId: "healthcare-authenticatio-eefc3",
-    storageBucket: "healthcare-authenticatio-eefc3.appspot.com",
-    messagingSenderId: "641075218879",
-    appId: "1:641075218879:web:a9a6034584a0a06fc6790a"
-  };
+  apiKey: "AIzaSyBWoLQGv2fZvTU7fOjC5T6wXFxfhs8HMJQ",
+  authDomain: "health-care-auth-67caf.firebaseapp.com",
+  projectId: "health-care-auth-67caf",
+  storageBucket: "health-care-auth-67caf.appspot.com",
+  messagingSenderId: "130007721252",
+  appId: "1:130007721252:web:0b4321da9da7d4a7487fb1",
+  measurementId: "G-K3P4BR8S82"
+};
 export default firebaseConfig;
